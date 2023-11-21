@@ -1,2 +1,2 @@
-'Hello provincia'
+'Hello JavaScript'
 segundo renglon
