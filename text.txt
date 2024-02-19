@@ -1,2 +1,1 @@
-'Hello JavaScript'
-segundo renglon
+'Hello prueba Git'
